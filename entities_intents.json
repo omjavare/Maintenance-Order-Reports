@@ -1,0 +1,15 @@
+[
+    {
+        "timestamp": "2025-10-27 12:51:45",
+        "transcription": "Name instanthaltung objekt-lightsystem ccs-2000 xtuder-programm instanthaltung objekt el08-aw 1-sar-01 kurzbeschreibung st\u00f6rungen-woschalter 0. 2 l\u00e4sst sich nicht quetieren.",
+        "entities": {
+            "machine_id": null,
+            "order_number": "2000",
+            "employee_id": null,
+            "instandhaltungsobjekt": null,
+            "kurzbeschreibung": "st\u00f6rungen-woschalter 0. 2 l\u00e4sst sich nicht quetieren",
+            "name_instandhaltungsobjekt": "ccs-2000"
+        },
+        "intent": "report"
+    }
+]
